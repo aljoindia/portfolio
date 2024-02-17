@@ -1,4 +1,6 @@
-# Data Person
+# Alvina Joanna
+
+## Data Person
 
 ### Education
 Msc Big Data Analytics, MBA, BSc Computer Sience, Mathematics, Statistics
