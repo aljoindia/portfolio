@@ -1,3 +1,5 @@
+# Heading
+
 # Alvina Joanna
 
 **About me:**
@@ -18,31 +20,34 @@ Eager and ethical data professional seeking to harness data's potential while re
 **Experience:**
 
 * **Samsung R&D Institute (Bangalore, India) - Full-Time Korean Technical Translator (2018 - 2022)**
-    * Translated technical documents, official reports, and internal communications for the Tech Strategy Team.
-    * Fostered seamless communication and knowledge sharing between international stakeholders.
+  - Translated technical documents, official reports, and internal communications for the Tech Strategy Team.
+  - Fostered seamless communication and knowledge sharing between international stakeholders.
 * **Office of International Affairs, Chonnam National University (Gwangju, South Korea) - Intern (2017)**
-    * Assisted with administrative tasks and provided translation support, enhancing cross-cultural understanding.
-    * Gained valuable insights into international relations and operations.
+  - Assisted with administrative tasks and provided translation support, enhancing cross-cultural understanding.
+  - Gained valuable insights into international relations and operations.
 
 ---
 
 **Education:**
 
 * **Master of Science in Big Data Analytics (St. Joseph's University, Bangalore, India)**
-* _2022 - Present_
-    * Placement representative and Treasurer for Sigma Squared Association (demonstrating leadership and organizational skills).
-    * Gained in-depth knowledge of data analysis techniques and ethical considerations.
+   _2022 - Present_
+  - Placement representative and Treasurer for Sigma Squared Association (demonstrating leadership and organizational skills).
+  - Gained in-depth knowledge of data analysis techniques and ethical considerations.
+    
 * **Master of Business Administration (Chonnam National University, Gwangju, South Korea) - Full Scholarship Recipient**
-* _2016 - 2018_
-    * Developed strong business acumen and honed critical thinking skills.
-    * Awarded a full scholarship, recognizing academic excellence and potential.
+   _2016 - 2018_
+  - Developed strong business acumen and honed critical thinking skills.
+  - Awarded a full scholarship, recognizing academic excellence and potential.
+    
 * **Bachelor of Science in Computer Science, Mathematics & Statistics (Christ University, Bangalore, India) - Graduated with First Class with Distinction**
-* _2013 - 2016_
-    * Cultivated a solid foundation in technical disciplines, setting the stage for further specialization.
-    * Graduated with top honors, demonstrating exceptional academic achievement.
+   _2013 - 2016_
+  - Cultivated a solid foundation in technical disciplines, setting the stage for further specialization.
+  - Graduated with top honors, demonstrating exceptional academic achievement.
 
 **Primary, Middle & High School (Bishop Cotton's Girls' School, Bangalore, India)**
-* Strong foundation in Commerce, Accounting, Mathematics & Computer Applications (ISC) curriculum.
+   _1998 - 2013_
+  - Strong foundation in Commerce, Accounting, Mathematics & Computer Applications (ISC) curriculum.
 
 ---
 
@@ -50,11 +55,11 @@ Eager and ethical data professional seeking to harness data's potential while re
 
 * **SPOT Award (2020)**
   _Samsung R&D Institute_
-  For excellence in execution of work responsibilities
+   For excellence in execution of work responsibilities
 
 * **Global Korea Scholarship (2015)**
   _NIIED, South Korea_
-  Fully sponsored exchange student in Chonnam National University
+   Fully sponsored exchange student in Chonnam National University
 
 ---
 
@@ -67,7 +72,7 @@ Eager and ethical data professional seeking to harness data's potential while re
 
 ---
 
-**Hobbies and Interests**
+**Hobbies and Interests:**
 
 * Learning languages (Japanese is in progress)
 * Reading books like _"Algorithms to Live by"_ and _"The Bancroft Strategy"_
