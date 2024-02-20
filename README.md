@@ -35,13 +35,13 @@ Eager and ethical data professional seeking to harness data's potential while re
   - Placement representative and Treasurer for Sigma Squared Association (demonstrating leadership and organizational skills).
   - Gained in-depth knowledge of data analysis techniques and ethical considerations.
     
-* **Master of Business Administration (Chonnam National University, Gwangju, South Korea)**  <br>
+* **Master of Business Administration (Chonnam National University, Gwangju, South Korea)**<br>
   Full Scholarship Recipient<br>
    _2016 - 2018_
   - Developed strong business acumen and honed critical thinking skills.
   - Awarded a full scholarship, recognizing academic excellence and potential.
     
-* **Bachelor of Science in Computer Science, Mathematics & Statistics (Christ University, Bangalore, India)<br>
+* **Bachelor of Science in Computer Science, Mathematics & Statistics (Christ University, Bangalore, India)**<br>
   Graduated with First Class with Distinction<br>
    _2013 - 2016_
   - Cultivated a solid foundation in technical disciplines, setting the stage for further specialization.
