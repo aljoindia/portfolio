@@ -17,6 +17,8 @@ Eager and ethical data professional seeking to harness data's potential while re
 
 **Experience:**
 
+* **Indian Space Research Organisation (Bangalore, India)**<br>
+  Project Trainee (2024)
 * **Samsung R&D Institute (Bangalore, India)**<br>
   Full-Time Korean Technical Translator (2018 - 2022)
   - Translated technical documents, official reports, and internal communications for the Tech Strategy Team.
